@@ -1,13 +1,3 @@
-# README
-## This is the README for your extension "vasion"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Vasion Color Scheme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This is a fork of the github color scheme, but with some modifications to add the Vasion themed colors (purple / orange). Let me know if you have any improvement ideas!
