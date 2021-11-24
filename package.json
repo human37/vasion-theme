@@ -1,21 +1,26 @@
 {
-    "name": "vasion",
-    "displayName": "vasion",
-    "description": "A simple vscode color scheme to match the orange/purple Vasion color scheme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "vasion",
-                "uiTheme": "vs-dark",
-                "path": "./themes/vasion-color-theme.json"
-            }
-        ]
-    }
+  "name": "vasion",
+  "publisher": "AmmonTaylor",
+  "displayName": "vasion",
+  "description": "A simple vscode color scheme to match the orange/purple Vasion color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/human37/vasion-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vasion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vasion-color-theme.json"
+      }
+    ]
+  }
 }
